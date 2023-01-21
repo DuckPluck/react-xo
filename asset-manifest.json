@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-xo/static/css/main.b904d0e1.css",
+    "main.js": "/react-xo/static/js/main.cbea1a18.js",
+    "index.html": "/react-xo/index.html",
+    "main.b904d0e1.css.map": "/react-xo/static/css/main.b904d0e1.css.map",
+    "main.cbea1a18.js.map": "/react-xo/static/js/main.cbea1a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b904d0e1.css",
+    "static/js/main.cbea1a18.js"
+  ]
+}
